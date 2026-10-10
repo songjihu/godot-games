@@ -1,0 +1,12 @@
+**/.godot/
+**/node_modules/
+**/project.private.config.json
+exports/
+work/
+*.log
+*.exe
+*.dll
+*.key
+*.pem
+**/engine/godot.wasm.br
+*.download

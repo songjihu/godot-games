@@ -1,0 +1,6 @@
+# Keep verified engine template bytes unchanged across Windows checkouts.
+* text=auto
+*.gd text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+**/engine/** -text

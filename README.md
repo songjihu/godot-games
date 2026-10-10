@@ -18,6 +18,8 @@ powershell -ExecutionPolicy Bypass -File scripts/export-wechat.ps1 -GodotPath 'C
 
 将 `exports/wechat-tap-game` 导入微信开发者工具，编译后手机预览。导出脚本会先在独立暂存目录构建，再更新输出，保留开发者工具生成的本地配置。
 
+首次导出会从固定上游提交下载 WASM 模板并检查 SHA256；需要网络连接。若通过编辑器内的导出插件操作，请先执行 `powershell -ExecutionPolicy Bypass -File scripts/restore-engine.ps1`。
+
 ## 验证
 
 ```powershell
@@ -30,7 +32,7 @@ node tests/adapter_layout.test.mjs
 ## 引擎与上游
 
 - Godot：`4.6.1-stable`，提交 `14d19694e0c88a3f9e82d899a0400f27a24c176e`，来源：https://github.com/godotengine/godot 。桌面编辑器已在本地从源码构建，仓库不包含其可执行文件或工具链。
-- 微信导出插件：[AnranS/godot_for_minigame](https://github.com/AnranS/godot_for_minigame)，基线提交 `89672fa0d6acf726eb4cd1b8a4610f8633ac93dc`，插件源码和配套 WASM 模板保存在游戏的 `addons` 目录。
+- 微信导出插件：[AnranS/godot_for_minigame](https://github.com/AnranS/godot_for_minigame)，基线提交 `89672fa0d6acf726eb4cd1b8a4610f8633ac93dc`，插件源码保存在游戏的 `addons` 目录；配套 WASM 模板由脚本下载到同一目录。
 - 微信 WASM 是插件提供的匹配 Godot 4.6.1 的预编译模板，并非本次本地重新编译。
 - 本地修改与测试说明见 [docs/wechat-fixes.md](docs/wechat-fixes.md)。
 

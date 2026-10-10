@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "pluginVersion": "0.3.0",
+  "bridgeAbi": 1,
+  "templateSchema": 1,
+  "outputManifestSchema": 1,
+  "requiresExactEngineTemplate": true,
+  "platformContracts": {
+    "wechat": {
+      "runtimeType": "native",
+      "apiNamespace": "wx",
+      "subpackageField": "subpackages",
+      "validation": {
+        "exportSmoke": "automated",
+        "devtoolCompile": "manual",
+        "realDevice": "manual"
+      }
+    },
+    "douyin": {
+      "runtimeType": "native",
+      "apiNamespace": "tt",
+      "subpackageField": "subPackages",
+      "validation": {
+        "exportSmoke": "automated",
+        "devtoolCompile": "manual",
+        "realDevice": "manual"
+      }
+    },
+    "tiktok": {
+      "runtimeType": "native",
+      "supportTier": "beta",
+      "apiNamespace": "TTMinis.game",
+      "nativeWebAssembly": "TTWebAssembly",
+      "minimumClientVersion": "43.4.0",
+      "subpackageField": "subpackages",
+      "devtool": "ttmg",
+      "devtoolVersion": "0.4.1-beta.wasm1",
+      "packageLimitsBytes": {
+        "total": 31457280,
+        "main": 4194304,
+        "independentSubpackage": 4194304
+      },
+      "validation": {
+        "exportSmoke": "automated",
+        "devtoolCompile": "required",
+        "realDevice": "required-for-release"
+      }
+    }
+  },
+  "certified": [
+    {
+      "godotVersion": "4.6.1.stable",
+      "godotTag": "4.6.1-stable",
+      "godotCommit": "14d19694e0c88a3f9e82d899a0400f27a24c176e",
+      "emscriptenVersion": "4.0.3",
+      "profile": "2d_full",
+      "target": "release",
+      "templateRevision": 1,
+      "template": {
+        "source": "bundled"
+      },
+      "platforms": {
+        "wechat": "automated",
+        "douyin": "automated",
+        "tiktok": "automated"
+      }
+    }
+  ]
+}
