@@ -1,0 +1,270 @@
+{
+  "version": 1,
+  "planned_levels": 100,
+  "playable_levels_now": 20,
+  "presentation": "普通关短线索，关键关单幅漫画；每十关一章；不以广告解锁主线",
+  "chapters": [
+    {
+      "chapter": 1,
+      "levels": [
+        1,
+        10
+      ],
+      "title": "雨画来信",
+      "question": "画里的龙为什么认得我？",
+      "chapter_reveal": "找到半片铜铃，指向姐姐",
+      "comic_milestones": [
+        1,
+        3,
+        6,
+        10
+      ],
+      "art_sheet": 1,
+      "collectible_levels": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    },
+    {
+      "chapter": 2,
+      "levels": [
+        11,
+        20
+      ],
+      "title": "无声渡口",
+      "question": "姐姐为什么独自渡河？",
+      "chapter_reveal": "灯需要代价，目的仍未知",
+      "comic_milestones": [
+        11,
+        13,
+        16,
+        20
+      ],
+      "art_sheet": 2,
+      "collectible_levels": [
+        12,
+        14,
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "chapter": 3,
+      "levels": [
+        21,
+        30
+      ],
+      "title": "逆行钟城",
+      "question": "我为何忘了离别那天？",
+      "chapter_reveal": "童年记忆与现实矛盾",
+      "comic_milestones": [
+        21,
+        23,
+        26,
+        30
+      ],
+      "art_sheet": 3,
+      "collectible_levels": [
+        22,
+        24,
+        26,
+        28,
+        30
+      ]
+    },
+    {
+      "chapter": 4,
+      "levels": [
+        31,
+        40
+      ],
+      "title": "瓶中旧梦",
+      "question": "消失的究竟是谁？",
+      "chapter_reveal": "看到自己消散的梦",
+      "comic_milestones": [
+        31,
+        33,
+        36,
+        40
+      ],
+      "art_sheet": 4,
+      "collectible_levels": [
+        32,
+        34,
+        36,
+        38,
+        40
+      ]
+    },
+    {
+      "chapter": 5,
+      "levels": [
+        41,
+        50
+      ],
+      "title": "纸背之门",
+      "question": "门后的人在等谁？",
+      "chapter_reveal": "姐姐认出青龙",
+      "comic_milestones": [
+        41,
+        43,
+        46,
+        50
+      ],
+      "art_sheet": 5,
+      "collectible_levels": [
+        42,
+        44,
+        46,
+        48,
+        50
+      ]
+    },
+    {
+      "chapter": 6,
+      "levels": [
+        51,
+        60
+      ],
+      "title": "借来的名",
+      "question": "人和龙有什么关系？",
+      "chapter_reveal": "揭开名字与救命的代价",
+      "comic_milestones": [
+        51,
+        53,
+        56,
+        60
+      ],
+      "art_sheet": 6,
+      "collectible_levels": [
+        52,
+        54,
+        56,
+        58,
+        60
+      ]
+    },
+    {
+      "chapter": 7,
+      "levels": [
+        61,
+        70
+      ],
+      "title": "千封未寄",
+      "question": "有没有两全的办法？",
+      "chapter_reveal": "被救的人提灯归来",
+      "comic_milestones": [
+        61,
+        63,
+        66,
+        70
+      ],
+      "art_sheet": 7,
+      "collectible_levels": [
+        62,
+        64,
+        66,
+        68,
+        70
+      ]
+    },
+    {
+      "chapter": 8,
+      "levels": [
+        71,
+        80
+      ],
+      "title": "无名之桥",
+      "question": "愿意忘记也继续吗？",
+      "chapter_reveal": "门前缺最后一个名字",
+      "comic_milestones": [
+        71,
+        73,
+        76,
+        80
+      ],
+      "art_sheet": 8,
+      "collectible_levels": [
+        72,
+        74,
+        76,
+        78,
+        80
+      ]
+    },
+    {
+      "chapter": 9,
+      "levels": [
+        81,
+        90
+      ],
+      "title": "众愿成灯",
+      "question": "一个名字能否属于许多人？",
+      "chapter_reveal": "合铃亮灯，青龙留在门前",
+      "comic_milestones": [
+        81,
+        83,
+        86,
+        90
+      ],
+      "art_sheet": 9,
+      "collectible_levels": [
+        82,
+        84,
+        86,
+        88,
+        90
+      ]
+    },
+    {
+      "chapter": 10,
+      "levels": [
+        91,
+        100
+      ],
+      "title": "春风归途",
+      "question": "这次能一起回家吗？",
+      "chapter_reveal": "众人记住名字，兄妹与青龙重逢",
+      "comic_milestones": [
+        91,
+        93,
+        96,
+        100
+      ],
+      "art_sheet": 10,
+      "collectible_levels": [
+        92,
+        94,
+        96,
+        98,
+        100
+      ]
+    }
+  ],
+  "monetization": {
+    "status": "disabled_pending_user_flow_owner_eligibility",
+    "free_restart": true,
+    "first_levels_ad_free": 10,
+    "rewarded_hint": {
+      "free_per_level": 1,
+      "extra_reward": "标出一条可移动龙",
+      "requires_explicit_click": true
+    },
+    "rewarded_continue": {
+      "max_per_attempt": 1,
+      "reward": "保留当前盘面，恢复一次机会"
+    },
+    "skip_level": {
+      "enabled": false,
+      "reason": "先验证难度和卡关数据，避免削弱解谜与信物价值"
+    },
+    "forced_story_ads": false,
+    "reward_only_on_confirmed_complete": true,
+    "error_or_cancel": "不扣进度，不标记观看成功；保持免费重开与已有免费帮助",
+    "user_reported_requirement": "用户后台显示：累计独立访客 UV > 500，尚未开通"
+  }
+}

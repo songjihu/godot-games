@@ -1,0 +1,29 @@
+[
+  {
+    "path": "games/arrow-escape/art/comics/chapter_01.png",
+    "sha256": "d4e404ae7710ac39718b25071a3efa87eb9a830cb42f53ac00d1fa9601b90c4f",
+    "bytes": 3117720,
+    "parts": [
+      "asset-parts/arrow-escape/chapter_01.png.000.part",
+      "asset-parts/arrow-escape/chapter_01.png.001.part",
+      "asset-parts/arrow-escape/chapter_01.png.002.part",
+      "asset-parts/arrow-escape/chapter_01.png.003.part",
+      "asset-parts/arrow-escape/chapter_01.png.004.part",
+      "asset-parts/arrow-escape/chapter_01.png.005.part"
+    ]
+  },
+  {
+    "path": "games/arrow-escape/art/comics/chapter_02.png",
+    "sha256": "d070ad6bebdbfba31b355afd4d0c8edccaedd2c50cf2ebb14229cefe891f9ce3",
+    "bytes": 3341530,
+    "parts": [
+      "asset-parts/arrow-escape/chapter_02.png.000.part",
+      "asset-parts/arrow-escape/chapter_02.png.001.part",
+      "asset-parts/arrow-escape/chapter_02.png.002.part",
+      "asset-parts/arrow-escape/chapter_02.png.003.part",
+      "asset-parts/arrow-escape/chapter_02.png.004.part",
+      "asset-parts/arrow-escape/chapter_02.png.005.part",
+      "asset-parts/arrow-escape/chapter_02.png.006.part"
+    ]
+  }
+]

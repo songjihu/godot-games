@@ -10,3 +10,4 @@ work/
 *.pem
 **/engine/godot.wasm.br
 *.download
+games/arrow-escape/art/comics/chapter_*.png

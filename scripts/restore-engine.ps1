@@ -1,6 +1,7 @@
+param([ValidateSet('tap-sprint','block-clear','arrow-escape')][string]$Game = 'tap-sprint')
 $ErrorActionPreference = 'Stop'
 $repoRoot = Split-Path -Parent $PSScriptRoot
-$destination = Join-Path $repoRoot 'games/tap-sprint/addons/godot_mini_game/engine/godot.wasm.br'
+$destination = Join-Path $repoRoot ("games/$Game/addons/godot_mini_game/engine/godot.wasm.br")
 $expected = 'f81067a1d30125b161c26097bf4976c20064a1543d2c56b1c7cdcce10ae764cd'
 if ((Test-Path -LiteralPath $destination) -and (Get-FileHash -LiteralPath $destination -Algorithm SHA256).Hash.ToLowerInvariant() -eq $expected) {
     Write-Host 'Engine template already verified.'

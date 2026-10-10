@@ -8,6 +8,15 @@
 
 用 Godot 4.6.1 打开 `games/tap-sprint/project.godot`，按 F5 运行。
 
+## 新增游戏
+
+- [方块消除](games/block-clear/README.md)：8×8 填盘、横竖同时消除、连消奖励、撤销、存档续局，包含中文字体、正式配音和消除动效。
+- [箭头出逃 · 画中有灵](games/arrow-escape/README.md)：20 关原创解谜、两章国风漫画、信物收藏、提示与撤销，包含每关递增的通关进度和存档修复。广告默认关闭。
+
+分别打开对应目录的 `project.godot` 即可开发。微信导出命令增加 `-Game block-clear` 或 `-Game arrow-escape`，输出在 `exports/wechat-block-clear` 或 `exports/wechat-arrow-escape`。每款游戏的运行测试及素材许可证见其 README。
+
+首次克隆后，打开《箭头出逃》前执行 `powershell -ExecutionPolicy Bypass -File scripts/restore-assets.ps1`。两张正式漫画以无损分片保存，此脚本合并并校验原图；微信导出会自动执行。分片不是压缩预览图，还原后与开发时原图逐字节一致。
+
 ## 导出微信小游戏
 
 在仓库根目录执行：

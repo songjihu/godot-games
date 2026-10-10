@@ -1,0 +1,161 @@
+{
+  "voice": "approved-B3",
+  "model": "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+  "seed": 808,
+  "reference_rate_factor": 1.035,
+  "output_pitch_processing": false,
+  "files": [
+    {
+      "filename": "voice_great_0.mp3",
+      "text": "这一步，做得不错。",
+      "duration": 1.6235,
+      "sha256": "730e375c9a5360db7d64a0b5aab24f7b4887b16a9e0b90dff31ad6ec63d52c19"
+    },
+    {
+      "filename": "voice_great_1.mp3",
+      "text": "位置留得很好。",
+      "duration": 1.1633333333333333,
+      "sha256": "14597bd5fa4913282c151745d1448b847c8c3ac349932f5eae83bf8b60a9c95a"
+    },
+    {
+      "filename": "voice_great_2.mp3",
+      "text": "干净利落。",
+      "duration": 0.857125,
+      "sha256": "1040c6205f8b151a59760cbb849adda4b662da46779a19aba44cc31867b87b77"
+    },
+    {
+      "filename": "voice_great_3.mp3",
+      "text": "节奏不错，继续。",
+      "duration": 1.7025416666666666,
+      "sha256": "948affe5f39f32f51135042e5052c4d0a8928d96b947c17d5de69084243a5fe0"
+    },
+    {
+      "filename": "voice_great_4.mp3",
+      "text": "又多了一点空间。",
+      "duration": 1.1624166666666667,
+      "sha256": "57627665cbfbabe9b44a5256449fe93c320e2f5a4085ed36e8ba31cda0c52803"
+    },
+    {
+      "filename": "voice_great_5.mp3",
+      "text": "稳住，就这样。",
+      "duration": 1.554875,
+      "sha256": "f1c79665859768b8af148175f81604ab8df959fec262a360286870a0895ea140"
+    },
+    {
+      "filename": "voice_amazing_0.mp3",
+      "text": "这一手，很有水平。",
+      "duration": 1.632125,
+      "sha256": "57fc52a3adc21e3ad09455d22b29533d81ab1934b662f69fab15f8f5299bc060"
+    },
+    {
+      "filename": "voice_amazing_1.mp3",
+      "text": "一次清掉这么多，真不错。",
+      "duration": 2.035625,
+      "sha256": "76aa47f96ac9bde574e7c71407904dd0044a621d4530e40b77b6519032ea0fee"
+    },
+    {
+      "filename": "voice_amazing_2.mp3",
+      "text": "局面打开了。",
+      "duration": 1.0393333333333334,
+      "sha256": "1a30d192ee263481be80bb5c84433bb4eee4432bd8d96ff0b03e36d7d06118b9"
+    },
+    {
+      "filename": "voice_amazing_3.mp3",
+      "text": "判断得很准。",
+      "duration": 1.0295,
+      "sha256": "6c8426ca859c909a69d9a72e6fbcc777685de17ca897a37e4b78fb7e6bb37818"
+    },
+    {
+      "filename": "voice_amazing_4.mp3",
+      "text": "这次消除，很精彩。",
+      "duration": 1.805375,
+      "sha256": "5e5a639852d735bb9fc597a3b3b5f987fb49b33352f98fff81dca102e79129ca"
+    },
+    {
+      "filename": "voice_combo_0.mp3",
+      "text": "连上了，保持节奏。",
+      "duration": 1.623625,
+      "sha256": "fbe5ea9debea5630e1359973608de49a7b66f1b7a812f1b6a52198e508748092"
+    },
+    {
+      "filename": "voice_combo_1.mp3",
+      "text": "手感越来越好了。",
+      "duration": 1.3824166666666666,
+      "sha256": "1980a2bf4119c991281aa654284caabdef3b4408f7d7ffa95f9164f18b8ff7ed"
+    },
+    {
+      "filename": "voice_combo_2.mp3",
+      "text": "这一局，你很从容。",
+      "duration": 1.8559166666666667,
+      "sha256": "c4faf06c4a868f6677bb9b215c707f9488602fcf3109610312c4dba2539a81d2"
+    },
+    {
+      "filename": "voice_combo_3.mp3",
+      "text": "好，再接下一步。",
+      "duration": 1.8109583333333332,
+      "sha256": "5acdbc3a4ee8eb271d2b6b9faf0902e5c355cdc5ae5237c01275fd565ed59dee"
+    },
+    {
+      "filename": "voice_combo_4.mp3",
+      "text": "接得很稳。",
+      "duration": 0.760875,
+      "sha256": "aa2defce465514e33629335b3049173b0074c5ee99a0d3c07f62df55a08f0fb2"
+    },
+    {
+      "filename": "voice_combo_5.mp3",
+      "text": "看来，你已经找到感觉了。",
+      "duration": 1.9615833333333332,
+      "sha256": "e78b9cb5a744057bb764673dfcde318fb3a74750de159037135127d8f7d3b7a3"
+    },
+    {
+      "filename": "voice_again_0.mp3",
+      "text": "差一点，下局再试。",
+      "duration": 1.7668333333333333,
+      "sha256": "c813f7d8a4ea931d7d51e9113f9976f564db79b78c8df45e253c14ff4b5054ba"
+    },
+    {
+      "filename": "voice_again_1.mp3",
+      "text": "休息一下，我陪你再来。",
+      "duration": 1.9542083333333333,
+      "sha256": "31ed3f814af6344fa5db2f75aba9d987a25500ea26f9784f9712c73f61f23b9c"
+    },
+    {
+      "filename": "voice_again_2.mp3",
+      "text": "别急，我们重新开始。",
+      "duration": 1.828875,
+      "sha256": "3660c6ab6fbaf2393dc1e65b43d2b1a39a5076559323c978b6fbb6f1de2dae4e"
+    }
+  ],
+  "lines": {
+    "great": [
+      "这一步，做得不错。",
+      "位置留得很好。",
+      "干净利落。",
+      "节奏不错，继续。",
+      "又多了一点空间。",
+      "稳住，就这样。"
+    ],
+    "amazing": [
+      "这一手，很有水平。",
+      "一次清掉这么多，真不错。",
+      "局面打开了。",
+      "判断得很准。",
+      "这次消除，很精彩。"
+    ],
+    "combo": [
+      "连上了，保持节奏。",
+      "手感越来越好了。",
+      "这一局，你很从容。",
+      "好，再接下一步。",
+      "接得很稳。",
+      "看来，你已经找到感觉了。"
+    ],
+    "again": [
+      "差一点，下局再试。",
+      "休息一下，我陪你再来。",
+      "别急，我们重新开始。"
+    ]
+  },
+  "approval": "用户确认B3并授权批量替换",
+  "output_effects": "无升调、混响或叠音后处理"
+}

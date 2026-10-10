@@ -1,0 +1,119 @@
+{
+  "status": "等待合成服务权限",
+  "name": "知心姐姐",
+  "source_voice_id": "voice_43",
+  "sample": "https://resource.sud.tech/audio/ai-voice/43.mp3",
+  "direction": "普通话，成熟柔和，自然沉稳，不撒娇，不刻意夹声；先合成一条确认，再批量生成。",
+  "lines": {
+    "great": [
+      "这一步，做得不错。",
+      "位置留得很好。",
+      "干净利落。",
+      "节奏不错，继续。",
+      "又多了一点空间。",
+      "稳住，就这样。"
+    ],
+    "amazing": [
+      "这一手，很有水平。",
+      "一次清掉这么多，真不错。",
+      "局面打开了。",
+      "判断得很准。",
+      "这次消除，很精彩。"
+    ],
+    "combo": [
+      "连上了，保持节奏。",
+      "手感越来越好了。",
+      "这一局，你很从容。",
+      "好，再接下一步。",
+      "接得很稳。",
+      "看来，你已经找到感觉了。"
+    ],
+    "again": [
+      "差一点，下局再试。",
+      "休息一下，我陪你再来。",
+      "别急，我们重新开始。"
+    ]
+  },
+  "files": [
+    {
+      "filename": "voice_great_0.mp3",
+      "text": "这一步，做得不错。"
+    },
+    {
+      "filename": "voice_great_1.mp3",
+      "text": "位置留得很好。"
+    },
+    {
+      "filename": "voice_great_2.mp3",
+      "text": "干净利落。"
+    },
+    {
+      "filename": "voice_great_3.mp3",
+      "text": "节奏不错，继续。"
+    },
+    {
+      "filename": "voice_great_4.mp3",
+      "text": "又多了一点空间。"
+    },
+    {
+      "filename": "voice_great_5.mp3",
+      "text": "稳住，就这样。"
+    },
+    {
+      "filename": "voice_amazing_0.mp3",
+      "text": "这一手，很有水平。"
+    },
+    {
+      "filename": "voice_amazing_1.mp3",
+      "text": "一次清掉这么多，真不错。"
+    },
+    {
+      "filename": "voice_amazing_2.mp3",
+      "text": "局面打开了。"
+    },
+    {
+      "filename": "voice_amazing_3.mp3",
+      "text": "判断得很准。"
+    },
+    {
+      "filename": "voice_amazing_4.mp3",
+      "text": "这次消除，很精彩。"
+    },
+    {
+      "filename": "voice_combo_0.mp3",
+      "text": "连上了，保持节奏。"
+    },
+    {
+      "filename": "voice_combo_1.mp3",
+      "text": "手感越来越好了。"
+    },
+    {
+      "filename": "voice_combo_2.mp3",
+      "text": "这一局，你很从容。"
+    },
+    {
+      "filename": "voice_combo_3.mp3",
+      "text": "好，再接下一步。"
+    },
+    {
+      "filename": "voice_combo_4.mp3",
+      "text": "接得很稳。"
+    },
+    {
+      "filename": "voice_combo_5.mp3",
+      "text": "看来，你已经找到感觉了。"
+    },
+    {
+      "filename": "voice_again_0.mp3",
+      "text": "差一点，下局再试。"
+    },
+    {
+      "filename": "voice_again_1.mp3",
+      "text": "休息一下，我陪你再来。"
+    },
+    {
+      "filename": "voice_again_2.mp3",
+      "text": "别急，我们重新开始。"
+    }
+  ]
+}

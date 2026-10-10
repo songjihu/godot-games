@@ -1,0 +1,222 @@
+[
+  {
+    "before_title": "雨中的来信",
+    "before_1": "夜里，你收到一幅正在下雨的旧画。信封没有署名。",
+    "before_2": "夜里，你收到一幅正在下雨的旧画。信封没有署名。",
+    "after_title": "雨中的来信",
+    "after_1": "画里传来细小的呼救声。先让这几道墨线散开。",
+    "after_2": "画里传来细小的呼救声。先让这几道墨线散开。",
+    "comic_sheet": 0,
+    "comic_frame": 1,
+    "show_comic": true
+  },
+  {
+    "before_title": "会动的墨迹",
+    "before_1": "雨水没有流出纸面。墨线却像活物一样，越缠越紧。",
+    "before_2": "雨水没有流出纸面。墨线却像活物一样，越缠越紧。",
+    "after_title": "会动的墨迹",
+    "after_1": "你辨出一枚龙鳞。是谁把活着的东西封进了画里？",
+    "after_2": "你辨出一枚龙鳞。是谁把活着的东西封进了画里？",
+    "comic_sheet": 0,
+    "comic_frame": 1,
+    "show_comic": false
+  },
+  {
+    "before_title": "墨里的眼睛",
+    "before_1": "一双金色的眼睛，从墨色深处望着你。",
+    "before_2": "一双金色的眼睛，从墨色深处望着你。",
+    "after_title": "墨里的眼睛",
+    "after_1": "最后一道束缚松开，青龙抬起头。它说：我认得你的声音。",
+    "after_2": "最后一道束缚松开，青龙抬起头。它说：我认得你的声音。",
+    "comic_sheet": 0,
+    "comic_frame": 2,
+    "show_comic": true
+  },
+  {
+    "before_title": "陌生的熟悉",
+    "before_1": "青龙的声音很轻，却像许久以前听过的一首歌。",
+    "before_2": "青龙的声音很轻，却像许久以前听过的一首歌。",
+    "after_title": "陌生的熟悉",
+    "after_1": "它努力回忆你的名字，可说出口的只有一声铃响。",
+    "after_2": "它努力回忆你的名字，可说出口的只有一声铃响。",
+    "comic_sheet": 0,
+    "comic_frame": 2,
+    "show_comic": false
+  },
+  {
+    "before_title": "被藏起的东西",
+    "before_1": "龙爪下压着一块暗淡的铜片。墨线不肯放开它。",
+    "before_2": "龙爪下压着一块暗淡的铜片。墨线不肯放开它。",
+    "after_title": "被藏起的东西",
+    "after_1": "铜片露出弯曲的边缘，像一只被折断的铃。",
+    "after_2": "铜片露出弯曲的边缘，像一只被折断的铃。",
+    "comic_sheet": 0,
+    "comic_frame": 2,
+    "show_comic": false
+  },
+  {
+    "before_title": "半片铜铃",
+    "before_1": "青龙把铜片推向你，示意你继续解开周围的墨结。",
+    "before_2": "青龙把铜片推向你，示意你继续解开周围的墨结。",
+    "after_title": "半片铜铃",
+    "after_1": "青龙衔来半片铜铃。湿润的铜面，映出红衣女子的影子。",
+    "after_2": "青龙衔来半片铜铃。湿润的铜面，映出红衣女子的影子。",
+    "comic_sheet": 0,
+    "comic_frame": 3,
+    "show_comic": true
+  },
+  {
+    "before_title": "模糊的旧影",
+    "before_1": "铜铃上的身影很快散去，只剩一抹熟悉的红色。",
+    "before_2": "铜铃上的身影很快散去，只剩一抹熟悉的红色。",
+    "after_title": "模糊的旧影",
+    "after_1": "你记得姐姐离家时，也穿着这样一件红衣。",
+    "after_2": "你记得姐姐离家时，也穿着这样一件红衣。",
+    "comic_sheet": 0,
+    "comic_frame": 3,
+    "show_comic": false
+  },
+  {
+    "before_title": "刻痕",
+    "before_1": "你擦去铜铃上的墨，发现被划去一半的细小刻痕。",
+    "before_2": "你擦去铜铃上的墨，发现被划去一半的细小刻痕。",
+    "after_title": "刻痕",
+    "after_1": "留下的刻痕，与你记忆中姐姐名字的第一笔相同。",
+    "after_2": "留下的刻痕，与你记忆中姐姐名字的第一笔相同。",
+    "comic_sheet": 0,
+    "comic_frame": 3,
+    "show_comic": false
+  },
+  {
+    "before_title": "河流的方向",
+    "before_1": "你问青龙姐姐在哪。它没有回答，只望着画里的河。",
+    "before_2": "你问青龙姐姐在哪。它没有回答，只望着画里的河。",
+    "after_title": "河流的方向",
+    "after_1": "远处传来船桨声。这幅画，似乎还有更深的地方。",
+    "after_2": "远处传来船桨声。这幅画，似乎还有更深的地方。",
+    "comic_sheet": 0,
+    "comic_frame": 3,
+    "show_comic": false
+  },
+  {
+    "before_title": "画外的渡口",
+    "before_1": "青龙停在河边，等着你迈出最后一步。",
+    "before_2": "青龙停在河边，等着你迈出最后一步。",
+    "after_title": "画外的渡口",
+    "after_1": "铜铃轻响，画中出现一条通向渡口的小路。也许那里有人见过姐姐。",
+    "after_2": "铜铃轻响，画中出现一条通向渡口的小路。也许那里有人见过姐姐。",
+    "comic_sheet": 0,
+    "comic_frame": 3,
+    "show_comic": true
+  },
+  {
+    "before_title": "雾中的呼救",
+    "before_1": "小路尽头是一座无声的渡口。河边没有人，只有一截断桨。",
+    "before_2": "小路尽头是一座无声的渡口。河边没有人，只有一截断桨。",
+    "after_title": "雾中的呼救",
+    "after_1": "雾散了一点。几条小龙被缚在水下石桩上，正望着你。",
+    "after_2": "雾散了一点。几条小龙被缚在水下石桩上，正望着你。",
+    "comic_sheet": 1,
+    "comic_frame": 0,
+    "show_comic": true
+  },
+  {
+    "before_title": "石桩上的结",
+    "before_1": "青龙碰了碰石桩。盘绕其上的墨线，与旧画里的一样。",
+    "before_2": "青龙碰了碰石桩。盘绕其上的墨线，与旧画里的一样。",
+    "after_title": "石桩上的结",
+    "after_1": "墨结松动，河里传出一声久违的水响。",
+    "after_2": "墨结松动，河里传出一声久违的水响。",
+    "comic_sheet": 1,
+    "comic_frame": 0,
+    "show_comic": false
+  },
+  {
+    "before_title": "让河水流动",
+    "before_1": "小龙开始沿着空出的水道游动。青龙示意你继续。",
+    "before_2": "小龙开始沿着空出的水道游动。青龙示意你继续。",
+    "after_title": "让河水流动",
+    "after_1": "束缚散开，河水亮起。水面似乎藏着一段记忆。",
+    "after_2": "束缚散开，河水亮起。水面似乎藏着一段记忆。",
+    "comic_sheet": 1,
+    "comic_frame": 1,
+    "show_comic": true
+  },
+  {
+    "before_title": "河底的回音",
+    "before_1": "你把铜铃靠近水面，听见半句被水声遮住的话。",
+    "before_2": "你把铜铃靠近水面，听见半句被水声遮住的话。",
+    "after_title": "河底的回音",
+    "after_1": "有人说过：把船留给她。可那个她，是谁？",
+    "after_2": "有人说过：把船留给她。可那个她，是谁？",
+    "comic_sheet": 1,
+    "comic_frame": 1,
+    "show_comic": false
+  },
+  {
+    "before_title": "一抹红色",
+    "before_1": "岸边旧木桩上留着红色丝线。与你记忆里的衣袖很像。",
+    "before_2": "岸边旧木桩上留着红色丝线。与你记忆里的衣袖很像。",
+    "after_title": "一抹红色",
+    "after_1": "水面浮起灯影，远处传来一声船桨划水的轻响。",
+    "after_2": "水面浮起灯影，远处传来一声船桨划水的轻响。",
+    "comic_sheet": 1,
+    "comic_frame": 1,
+    "show_comic": false
+  },
+  {
+    "before_title": "记忆里的船",
+    "before_1": "青龙安静下来，让你看向河心。那里出现了船的轮廓。",
+    "before_2": "青龙安静下来，让你看向河心。那里出现了船的轮廓。",
+    "after_title": "记忆里的船",
+    "after_1": "一艘有篷的小船浮出倒影。撑船的人，穿着姐姐的红衣。",
+    "after_2": "一艘有篷的小船浮出倒影。撑船的人，穿着姐姐的红衣。",
+    "comic_sheet": 1,
+    "comic_frame": 2,
+    "show_comic": true
+  },
+  {
+    "before_title": "照不亮的灯",
+    "before_1": "船上挂着一盏灯。周围的水面亮着，它却始终是暗的。",
+    "before_2": "船上挂着一盏灯。周围的水面亮着，它却始终是暗的。",
+    "after_title": "照不亮的灯",
+    "after_1": "姐姐望向灯，像在犹豫要不要伸手点燃。",
+    "after_2": "姐姐望向灯，像在犹豫要不要伸手点燃。",
+    "comic_sheet": 1,
+    "comic_frame": 2,
+    "show_comic": false
+  },
+  {
+    "before_title": "没人听见的话",
+    "before_1": "你想叫住她，声音却穿过倒影，落进河里。",
+    "before_2": "你想叫住她，声音却穿过倒影，落进河里。",
+    "after_title": "没人听见的话",
+    "after_1": "姐姐低声说：别让他知道。青龙也听见了，却没有抬头。",
+    "after_2": "姐姐低声说：别让他知道。青龙也听见了，却没有抬头。",
+    "comic_sheet": 1,
+    "comic_frame": 2,
+    "show_comic": false
+  },
+  {
+    "before_title": "另一岸",
+    "before_1": "倒影里出现一座城。城门上的钟，似乎正在向后转。",
+    "before_2": "倒影里出现一座城。城门上的钟，似乎正在向后转。",
+    "after_title": "另一岸",
+    "after_1": "船的方向终于清楚了。她要去的，是那座不肯天亮的城。",
+    "after_2": "船的方向终于清楚了。她要去的，是那座不肯天亮的城。",
+    "comic_sheet": 1,
+    "comic_frame": 2,
+    "show_comic": false
+  },
+  {
+    "before_title": "渡河之问",
+    "before_1": "你把半片铜铃系好，决定沿着她的路线继续走。",
+    "before_2": "你把半片铜铃系好，决定沿着她的路线继续走。",
+    "after_title": "渡河之问",
+    "after_1": "倒影渐渐散去。最后留下那盏暗灯：点亮它，究竟要付出什么？",
+    "after_2": "倒影渐渐散去。最后留下那盏暗灯：点亮它，究竟要付出什么？",
+    "comic_sheet": 1,
+    "comic_frame": 3,
+    "show_comic": true
+  }
+]

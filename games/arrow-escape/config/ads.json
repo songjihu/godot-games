@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "ad_free_levels": 10,
+  "rewarded_hint_id": "",
+  "rewarded_continue_id": "",
+  "free_hints_per_level": 1,
+  "max_continues_per_attempt": 1
+}
